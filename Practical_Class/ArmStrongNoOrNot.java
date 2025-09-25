@@ -40,5 +40,7 @@ public static void main(String[] args) {
 
     int no = scan.nextInt();
     checkArmStrong(no);
+
+    
 }
 }
