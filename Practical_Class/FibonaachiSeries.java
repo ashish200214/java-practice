@@ -16,6 +16,7 @@ for(int i=3;i<=no;i++){
 }
 }
 public static void main(String[] args) {
+
     printFiboNacchi(10);
 }
 }
